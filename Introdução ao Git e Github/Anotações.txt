@@ -1,0 +1,11 @@
+Git init = inicializa um repositório
+Rm -rf .git = remove um repositorio
+Ls = Lista os arquivos do repositório
+Ls -a = Lista os arquviso ocultos
+Git status = verifica o status do repositorio
+Git clone + URL = clona o repositorio do github para o repositorio local
+Git pull = puxa os itens do git para a maquina
+Git push = empura os itens do repositorio local para o git
+git commit = "comita"(atualiza o repositorio distribuido)
+git commit - m "Frase" = comita e adiciona uma frase
+Git add = salva as alterações
